@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 windows git 常用命令
 
 
@@ -5,4 +6,7 @@ master 修改
 
 
 b1修改 
+
+
+hhhhhh
 
